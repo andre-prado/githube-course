@@ -1,5 +1,5 @@
 # Calculadora que faz soma, multiplicação e subtração 
-
+#calculadora será aprimora utilizando funções!
 entrada = input("Digite (+) para soma, (*) para multiplicar ou (-) para subtrair: ")
 
 if entrada == "+":
