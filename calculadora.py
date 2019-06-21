@@ -18,10 +18,10 @@ elif entrada =="*":
 
     print("A multiplicação entre {} e {} é de : {}".format(num1, num2, mult))
 else:
-    num1 = int(nput("Digite o primeiro número para subtrair: "))
+    num1 = int(input("Digite o primeiro número para subtrair: "))
     num2 = int(input("Digite o segundo número para subtrair: "))
 
     sub = num1 - num2
 
-    print("{} subtraído de {} é : {}".format(num1,num2,num3))
+    print("{} subtraído de {} é : {}".format(num1,num2,sub))
     
